@@ -1,0 +1,25 @@
+﻿ ID  ,Age of Driver,Age of Licence,Age of Policy,Unspent Convictions,1st Party Claims,3rd Party Claims,No Claims Protection,No Claims,Exp. Driver,Good Driver
+1,27,2,3,N,1,0,Y,Y,N,N
+2,19,2,0,N,2,0,Y,N,N,N
+3,44,21,5,Y,0,0,N,Y,N,N
+4,31,7,7,N,0,0,N,Y,N,N
+5,38,13,8,N,2,1,Y,N,Y,N
+6,51,30,14,Y,0,4,N,N,N,N
+7,67,49,11,N,0,2,Y,Y,Y,N
+8,35,5,1,N,0,0,N,Y,Y,Y
+9,76,1,11,N,1,1,Y,N,N,N
+10,47,18,5,Y,0,1,N,N,N,N
+11,49,3,0,N,0,0,N,Y,N,N
+12,21,4,4,N,1,3,Y,N,N,N
+13,29,7,2,N,0,0,N,Y,Y,Y
+14,25,4,2,N,0,2,Y,Y,Y,N
+15,55,32,14,Y,1,0,N,N,N,N
+16,30,11,0,N,0,0,Y,N,Y,Y
+17,25,8,3,Y,1,0,N,,,
+18,37,17,11,N,0,2,Y,,,
+19,19,0,0,N,2,0,N,,,
+20,44,25,12,Y,0,0,N,,,
+21,62,35,9,N,0,1,N,,,
+22,48,30,1,N,0,0,Y,,,
+23,23,4,4,N,1,3,N,,,
+24,56,36,0,Y,0,1,N,,,
